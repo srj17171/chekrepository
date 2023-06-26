@@ -1,0 +1,15 @@
+ 2023-05-21 17:44:39,342 : INFO : Test_login : test_login_001 : 17 : test_login_001 is started
+ 2023-05-21 17:44:39,343 : INFO : Test_login : test_login_001 : 19 : browser started
+ 2023-05-21 17:44:40,569 : INFO : Test_login : test_login_001 : 21 : Going to Url -->https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+ 2023-05-21 17:44:52,558 : INFO : Test_login : test_login_001 : 30 : test_page_title_001 is Passed
+ 2023-05-21 17:44:52,558 : INFO : Test_login : test_login_001 : 36 : test_page_title_001 is Completed
+ 2023-05-21 18:09:31,235 : INFO : Test_login : test_login_001 : 17 : test_login_001 is started
+ 2023-05-21 18:09:31,237 : INFO : Test_login : test_login_001 : 19 : browser started
+ 2023-05-21 18:09:33,325 : INFO : Test_login : test_login_001 : 21 : Going to Url -->https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+ 2023-05-21 18:09:46,045 : INFO : Test_login : test_login_001 : 30 : test_page_title_001 is Passed
+ 2023-05-21 18:09:46,045 : INFO : Test_login : test_login_001 : 36 : test_page_title_001 is Completed
+ 2023-05-21 18:15:31,643 : INFO : Test_login : test_login_001 : 17 : test_login_001 is started
+ 2023-05-21 18:15:31,767 : INFO : Test_login : test_login_001 : 19 : browser started
+ 2023-05-21 18:15:33,407 : INFO : Test_login : test_login_001 : 21 : Going to Url -->https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+ 2023-05-21 18:15:45,210 : INFO : Test_login : test_login_001 : 30 : test_page_title_001 is Passed
+ 2023-05-21 18:15:45,210 : INFO : Test_login : test_login_001 : 36 : test_page_title_001 is Completed
